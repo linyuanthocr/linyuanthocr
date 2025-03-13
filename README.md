@@ -51,4 +51,4 @@ Hi, there 👋
 
 
 📊 **GitHub Stats**  
-![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuanthocr&show_icons=true&theme=dracula)
+![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuanthocr&show_icons=true&theme=dracula&cache_seconds=600)
