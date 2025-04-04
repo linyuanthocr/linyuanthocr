@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://scholar.google.com/citations?user=kNLbqmgAAAAJ&hl=zh-CN">
-    <img src="https://img.shields.io/badge/Google scholar-blue?style=for-the-badge&logo=Google scholar&logoColor=white" alt="Google scholar Badge"/>
+    <img src="https://img.shields.io/badge/Google scholar-blue?style=for-the-badge&logo=Google Scholar&logoColor=white" alt="Google scholar Badge"/>
   </a>
   <a href="https://www.etsy.com/shop/ByteGalleyByYuan">
     <img src="https://img.shields.io/badge/Etsy-blue?style=for-the-badge&logo=Etsy&logoColor=white" alt="Etsy Badge"/>
